@@ -1,5 +1,5 @@
 def create_an_empty_array
-  array = cars
+  array.new = cars
   
 end
 
