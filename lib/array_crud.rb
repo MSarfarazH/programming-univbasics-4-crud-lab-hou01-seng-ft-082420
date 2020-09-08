@@ -15,7 +15,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  # cars = ["Lambourgini", "Aston Martin", "Toyota", "Lexus"]
+  cars = ["Lambourgini", "Aston Martin", "Toyota", "Lexus"]
   cars.shift("arrays!")
 end
 
