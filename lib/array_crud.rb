@@ -4,21 +4,21 @@ def create_an_empty_array
 end
 
 def create_an_array
-  cars = [Lambourgini, Aston, Toyota, Lexus]
+  cars = ["Lambourgini", "Aston Martin", "Toyota", "Lexus"]
   
 end
 
 def add_element_to_end_of_array(array, element)
-  cars.push(Bugatti)
+  cars.push("Bugatti")
   
 end
 
 def add_element_to_start_of_array(array, element)
-  cars.shift(Mercedes)
+  cars.shift("Mercedes")
 end
 
 def remove_element_from_end_of_array(array)
-  cars.pop(Bugatti)
+  cars.pop("Bugatti")
   
 end
 
