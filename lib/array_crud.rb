@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  cars = [Lambourgini, Aston_Martin, Toyota_Supra, Lexus_RC_F]
+  cars = [Lambourgini, Aston, Toyota, Lexus]
   
 end
 
