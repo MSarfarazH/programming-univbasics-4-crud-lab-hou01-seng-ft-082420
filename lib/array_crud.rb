@@ -11,6 +11,7 @@ end
 def add_element_to_end_of_array(array, element)
   cars = ["Lambourgini", "Aston Martin", "Toyota", "Lexus"]
   cars.push("Bugatti")
+  p cars
   
 end
 
