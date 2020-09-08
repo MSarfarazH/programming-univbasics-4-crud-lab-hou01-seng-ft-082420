@@ -23,7 +23,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  cars.unshift()
+  cars.unshift("Infinity")
   
 end
 
@@ -40,5 +40,5 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-cars[2] = Ehonda
+cars[2] = "Ehonda"
 end
