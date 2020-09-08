@@ -16,18 +16,18 @@ end
 
 def add_element_to_start_of_array(array, element)
   cars = ["Lambourgini", "Aston Martin", "Toyota", "Lexus"]
-  cars.shift("Mercedes")
+  cars.shift("arrays!")
 end
 
 def remove_element_from_end_of_array(array)
   cars = ["Lambourgini", "Aston Martin", "Toyota", "Lexus"]
-  cars.pop("Ferrari")
+  cars.pop("arrays!")
   
 end
 
 def remove_element_from_start_of_array(array)
   cars = ["Lambourgini", "Aston Martin", "Toyota", "Lexus"]
-  cars.unshift("Infinity")
+  cars.unshift("arrays!")
   
 end
 
