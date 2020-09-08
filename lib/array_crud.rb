@@ -5,7 +5,7 @@ end
 
 def create_an_array
   # cars = [Lambourgini, Aston, Toyota, Lexus]
-  my_array = []
+  my_array = [Lambourgini, Aston, Toyota, Lexus]
   
 end
 
